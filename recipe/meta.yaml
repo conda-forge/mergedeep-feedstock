@@ -1,6 +1,6 @@
 {% set name = "mergedeep" %}
-{% set version = "1.3.1" %}
-{% set sha256 = "124c47ec97fe5c4800f642bd52ea9b6a2045355841a24c17f2530a9d51cc3222" %}
+{% set version = "1.3.2" %}
+{% set sha256 = "f1d57c00461e9524ec7e2c5a18076397eac8ba5181810b70c60d2f967b103fe3" %}
 
 package:
   name: {{ name|lower }}
